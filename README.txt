@@ -1,10 +1,8 @@
-Homework 6 README
-Gary Chen
-gc2676
+Traveling Salesman Problem
 
 Files Included: written.pdf, Graph.java, Edge.java, Vertex.java, Display.java, README.txt
 
-Written.pdf - Written portion, contains images
+------------------------------------------------------------------------------------------
 
 1.generateRandomVertices
 For this function, I made n vertices with random position 1-100 as the x,y values. I then stored the vertices and edges using addVertex and addEdge.
